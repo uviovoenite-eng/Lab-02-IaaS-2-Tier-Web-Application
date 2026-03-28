@@ -3,7 +3,6 @@
 DIAGRAM:
 
 https://lucid.app/lucidchart/85f7c960-c757-45a8-8aa6-1f73290314e7/edit?viewport_loc=-3308%2C-2708%2C3262%2C1900%2C0_0&invitationId=inv_a2c04580-d575-4a16-a8a8-1f8f74e88837
-https://github.com/uviovoenite-eng/Lab-02-IaaS-2-Tier-Web-Application/raw/Untitled.png
 
 WATCH ME DO THE LAB HERE: <https://loom.com/share/ea1ea8814da342b982e69d70f39481f7>
 
