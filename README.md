@@ -17,6 +17,7 @@ This SOP outlines the steps to create a virtual network with public and private 
 
 **1. Create Resource Group** [1:03](https://loom.com/share/ea1ea8814da342b982e69d70f39481f7?t=63)
 
+
 ![generated-image-at-00:01:03](https://loom.com/i/26a693d083e345ebb853700d2344242d?workflows_screenshot=true)
 
 - Navigate to the Azure portal.
