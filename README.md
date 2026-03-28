@@ -1,4 +1,4 @@
-# Lab-02-IaaS-2-Tier-Web-Application
+# Lab-02-IaaS-2-Tier-Web-Application | IaaS with Virutal Networks and NSG
 
 DIAGRAM:
 
